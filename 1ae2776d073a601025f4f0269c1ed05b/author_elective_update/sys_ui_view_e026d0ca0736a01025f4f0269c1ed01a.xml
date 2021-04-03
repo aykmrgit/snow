@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="DELETE">
+        <group/>
+        <hidden>false</hidden>
+        <name>New_view</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-11 02:57:59</sys_created_on>
+        <sys_id>e026d0ca0736a01025f4f0269c1ed01a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New view</sys_name>
+        <sys_package display_value="Input Travel App" source="x_591472_input_tra">1ae2776d073a601025f4f0269c1ed05b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Input Travel App">1ae2776d073a601025f4f0269c1ed05b</sys_scope>
+        <sys_update_name>sys_ui_view_e026d0ca0736a01025f4f0269c1ed01a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-11 02:57:59</sys_updated_on>
+        <title>New view</title>
+        <user/>
+    </sys_ui_view>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Input Travel App">1ae2776d073a601025f4f0269c1ed05b</application>
+        <file_path/>
+        <instance_id>cba85230dbd100500b9d21c4059619cd</instance_id>
+        <instance_name>dev95069</instance_name>
+        <name>sys_ui_view_e026d0ca0736a01025f4f0269c1ed01a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view"><sys_ui_view action="INSERT_OR_UPDATE"><group/><hidden>false</hidden><name>New_view</name><roles/><sys_class_name>sys_ui_view</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-11 02:57:59</sys_created_on><sys_id>e026d0ca0736a01025f4f0269c1ed01a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New view</sys_name><sys_package display_value="Input Travel App" source="x_591472_input_tra">1ae2776d073a601025f4f0269c1ed05b</sys_package><sys_policy/><sys_scope display_value="Input Travel App">1ae2776d073a601025f4f0269c1ed05b</sys_scope><sys_update_name>sys_ui_view_e026d0ca0736a01025f4f0269c1ed01a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-11 02:57:59</sys_updated_on><title>New view</title><user/></sys_ui_view></record_update>]]></payload>
+        <payload_hash>1067335357</payload_hash>
+        <record_name>New view</record_name>
+        <reverted_from/>
+        <source>e2e2bfad073a601025f4f0269c1ed031</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-11 02:57:59</sys_created_on>
+        <sys_id>b826d0ca0736a01025f4f0269c1ed01c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1781f3832780000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-11 02:57:59</sys_updated_on>
+        <type>UI View</type>
+        <update_guid>f026d0ca6536a0100d14a4ae33d5e91c</update_guid>
+        <update_guid_history>f026d0ca6536a0100d14a4ae33d5e91c:1067335357</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-11 13:37:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_view">sys_ui_view</sys_db_object>
+        <sys_id>7988fca32e684ba1995cb24a285dd7e1</sys_id>
+        <sys_metadata>e026d0ca0736a01025f4f0269c1ed01a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New view</sys_name>
+        <sys_package display_value="Input Travel App" source="x_591472_input_tra">1ae2776d073a601025f4f0269c1ed05b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Input Travel App">1ae2776d073a601025f4f0269c1ed05b</sys_scope>
+        <sys_scope_delete display_value="">6c094eda56234de6a2d96dfa789dbe21</sys_scope_delete>
+        <sys_update_name>sys_ui_view_e026d0ca0736a01025f4f0269c1ed01a</sys_update_name>
+        <sys_update_version display_value="sys_ui_view_e026d0ca0736a01025f4f0269c1ed01a">b826d0ca0736a01025f4f0269c1ed01c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-11 13:37:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

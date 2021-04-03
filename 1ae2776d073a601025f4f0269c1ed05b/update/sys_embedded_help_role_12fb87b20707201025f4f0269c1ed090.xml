@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_591472_input_tra.user_user" name="x_591472_input_tra.user_user">0efb87b20707201025f4f0269c1ed08c</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-26 10:23:36</sys_created_on>
+        <sys_id>12fb87b20707201025f4f0269c1ed090</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0efb87b20707201025f4f0269c1ed08c</sys_name>
+        <sys_package display_value="Input Travel App" source="x_591472_input_tra">1ae2776d073a601025f4f0269c1ed05b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Input Travel App">1ae2776d073a601025f4f0269c1ed05b</sys_scope>
+        <sys_update_name>sys_embedded_help_role_12fb87b20707201025f4f0269c1ed090</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-26 10:23:36</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

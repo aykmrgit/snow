@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_email_template">
+    <sysevent_email_template action="INSERT_OR_UPDATE">
+        <collection>x_591472_input_tra_input_travel</collection>
+        <email_layout display_value="Demo Layout - Dark">f03ea9717f1312007f005212bdfa919b</email_layout>
+        <message/>
+        <message_html><![CDATA[<p><span style="color: #333399; background-color: #ffff00;">Hi ${assigned_to},</span><br /></p>
+<p><span style="color: #333399; background-color: #ffff00;">Short description: ${short_description}</span><br /></p>
+<p><br /></p>
+<table style="border-collapse: collapse; width: 40.7477%; height: 69px;" border="1">
+<tbody>
+<tr style="height: 13px;">
+<td style="width: 50%; height: 13px;"><br /></td>
+<td style="width: 50%; height: 13px;"><br /></td>
+</tr>
+<tr style="height: 13px;">
+<td style="width: 50%; height: 13px;"><br /></td>
+<td style="width: 50%; height: 13px;"><br /></td>
+</tr>
+</tbody>
+</table>
+<p>${mail_script:take_to_portal}</p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>Input assigned to email template</name>
+        <sms_alternate/>
+        <subject>Ticket assigned - ${number}</subject>
+        <sys_class_name>sysevent_email_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-22 05:42:29</sys_created_on>
+        <sys_id>c3f32da50703601025f4f0269c1ed01e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Input assigned to email template</sys_name>
+        <sys_package display_value="Input Travel App" source="x_591472_input_tra">1ae2776d073a601025f4f0269c1ed05b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Input Travel App">1ae2776d073a601025f4f0269c1ed05b</sys_scope>
+        <sys_update_name>sysevent_email_template_c3f32da50703601025f4f0269c1ed01e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-22 11:52:59</sys_updated_on>
+        <sys_version>2</sys_version>
+    </sysevent_email_template>
+</record_update>

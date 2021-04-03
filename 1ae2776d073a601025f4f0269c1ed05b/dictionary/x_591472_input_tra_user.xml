@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_user" label="User" max_length="40" name="x_591472_input_tra_user" sizeclass="4" type="collection">
+        <element label="Fixed on" max_length="40" name="fixed_on" read_only="true" type="glide_date_time"/>
+        <element label="No. of Defects" max_length="40" name="no_of_defects" type="integer"/>
+    </element>
+</database>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="c4" label="C4" language="en" table="x_591472_input_tra_input_travel">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>c4</element>
+            <help/>
+            <hint/>
+            <label>C4</label>
+            <language>en</language>
+            <name>x_591472_input_tra_input_travel</name>
+            <plural>C4s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-17 04:19:12</sys_created_on>
+            <sys_id>e842a3b707be201025f4f0269c1ed005</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>C4</sys_name>
+            <sys_package display_value="Input Travel App" source="x_591472_input_tra">1ae2776d073a601025f4f0269c1ed05b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Input Travel App">1ae2776d073a601025f4f0269c1ed05b</sys_scope>
+            <sys_update_name>sys_documentation_x_591472_input_tra_input_travel_c4_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-17 04:19:12</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

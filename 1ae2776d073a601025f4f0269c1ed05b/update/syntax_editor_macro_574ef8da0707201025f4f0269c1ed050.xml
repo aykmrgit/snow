@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="syntax_editor_macro">
+    <syntax_editor_macro action="INSERT_OR_UPDATE">
+        <comments/>
+        <name>testgr</name>
+        <sys_class_name>syntax_editor_macro</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-24 10:48:39</sys_created_on>
+        <sys_id>574ef8da0707201025f4f0269c1ed050</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>testgr</sys_name>
+        <sys_package display_value="Input Travel App" source="x_591472_input_tra">1ae2776d073a601025f4f0269c1ed05b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Input Travel App">1ae2776d073a601025f4f0269c1ed05b</sys_scope>
+        <sys_update_name>syntax_editor_macro_574ef8da0707201025f4f0269c1ed050</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-24 10:48:39</sys_updated_on>
+        <text>(function executeRule(current, previous /*null when async*/ ) {&#13;
+&#13;
+    // Add your code here&#13;
+    if (!previous.assigned_to.nil()) {&#13;
+        gs.eventQueue("x_591472_input_tra.assigned_to_event_inp", current, "ayushs6312@gmail.com");&#13;
+    }&#13;
+&#13;
+})(current, previous);</text>
+    </syntax_editor_macro>
+</record_update>
