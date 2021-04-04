@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_591472_input_tra.rest_integration</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>rest_integration</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-01 04:36:29</sys_created_on>
+        <sys_id>d50678f00713201025f4f0269c1ed002</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_591472_input_tra.rest_integration</sys_name>
+        <sys_package display_value="Input Travel App" source="x_591472_input_tra">1ae2776d073a601025f4f0269c1ed05b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Input Travel App">1ae2776d073a601025f4f0269c1ed05b</sys_scope>
+        <sys_update_name>sys_user_role_d50678f00713201025f4f0269c1ed002</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-01 04:51:57</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Input Travel App">1ae2776d073a601025f4f0269c1ed05b</application>
+        <file_path/>
+        <instance_id>cba85230dbd100500b9d21c4059619cd</instance_id>
+        <instance_name>dev95069</instance_name>
+        <name>sys_user_role_d50678f00713201025f4f0269c1ed002</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_591472_input_tra.rest_integration</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>rest_integration</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-01 04:36:29</sys_created_on><sys_id>d50678f00713201025f4f0269c1ed002</sys_id><sys_mod_count>2</sys_mod_count><sys_name>x_591472_input_tra.rest_integration</sys_name><sys_package display_value="Input Travel App" source="x_591472_input_tra">1ae2776d073a601025f4f0269c1ed05b</sys_package><sys_policy/><sys_scope display_value="Input Travel App">1ae2776d073a601025f4f0269c1ed05b</sys_scope><sys_update_name>sys_user_role_d50678f00713201025f4f0269c1ed002</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-04-01 04:51:57</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>-2040758264</payload_hash>
+        <record_name>x_591472_input_tra.rest_integration</record_name>
+        <reverted_from/>
+        <source>e2e2bfad073a601025f4f0269c1ed031</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-01 04:51:58</sys_created_on>
+        <sys_id>cf9934b40713201025f4f0269c1ed055</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1788bc615fe0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-01 04:51:58</sys_updated_on>
+        <type>Role</type>
+        <update_guid>4b9934b4e113201030b7948603e80855</update_guid>
+        <update_guid_history>4b9934b4e113201030b7948603e80855:-2040758264,d1c7f4348c1320108120ccbf6bfc5977:-1541454840,9c1678f034132010d1fcfcaf33ef4bbc:-757870971</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_591472_input_tra.rest_integration">979a30f40713201025f4f0269c1ed0b2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-01 04:56:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>0c7e9ec7f87e4cc09a8640cbf0719604</sys_id>
+        <sys_metadata>d50678f00713201025f4f0269c1ed002</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_591472_input_tra.rest_integration</sys_name>
+        <sys_package display_value="Input Travel App" source="x_591472_input_tra">1ae2776d073a601025f4f0269c1ed05b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Input Travel App">1ae2776d073a601025f4f0269c1ed05b</sys_scope>
+        <sys_scope_delete display_value="">6c094eda56234de6a2d96dfa789dbe21</sys_scope_delete>
+        <sys_update_name>sys_user_role_d50678f00713201025f4f0269c1ed002</sys_update_name>
+        <sys_update_version display_value="sys_user_role_d50678f00713201025f4f0269c1ed002">cf9934b40713201025f4f0269c1ed055</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-01 04:56:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
