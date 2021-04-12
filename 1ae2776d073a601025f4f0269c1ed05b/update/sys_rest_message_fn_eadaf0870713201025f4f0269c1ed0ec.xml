@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="INSERT_OR_UPDATE">
+        <authentication_type>inherit_from_parent</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <content/>
+        <function_name>Default GET</function_name>
+        <http_method>get</http_method>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <qualified_name>Get temperature of location [ Default GET ]</qualified_name>
+        <rest_endpoint>http://api.weatherstack.com/current?access_key=fb5d3b5dedcaf0e2aed97808d47e7309&amp;query=New%20York</rest_endpoint>
+        <rest_message display_value="Get temperature of location">851af0870713201025f4f0269c1ed0e7</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-08 04:43:44</sys_created_on>
+        <sys_id>eadaf0870713201025f4f0269c1ed0ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Default GET</sys_name>
+        <sys_package display_value="Input Travel App" source="x_591472_input_tra">1ae2776d073a601025f4f0269c1ed05b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Input Travel App">1ae2776d073a601025f4f0269c1ed05b</sys_scope>
+        <sys_update_name>sys_rest_message_fn_eadaf0870713201025f4f0269c1ed0ec</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-08 04:43:44</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+</record_update>

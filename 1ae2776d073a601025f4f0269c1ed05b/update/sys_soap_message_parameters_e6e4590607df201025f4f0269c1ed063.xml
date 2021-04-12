@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_soap_message_parameters">
+    <sys_soap_message_parameters action="INSERT_OR_UPDATE">
+        <name>insert.category</name>
+        <soap_function display_value="insert">0664910607df201025f4f0269c1ed042</soap_function>
+        <sys_class_name>sys_soap_message_parameters</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-05 04:03:40</sys_created_on>
+        <sys_id>e6e4590607df201025f4f0269c1ed063</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>insert.category</sys_name>
+        <sys_package display_value="Input Travel App" source="x_591472_input_tra">1ae2776d073a601025f4f0269c1ed05b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Input Travel App">1ae2776d073a601025f4f0269c1ed05b</sys_scope>
+        <sys_update_name>sys_soap_message_parameters_e6e4590607df201025f4f0269c1ed063</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-05 04:03:40</sys_updated_on>
+        <type>string</type>
+        <value/>
+    </sys_soap_message_parameters>
+</record_update>
